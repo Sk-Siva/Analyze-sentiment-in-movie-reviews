@@ -1,10 +1,12 @@
 # CodeClauseInternship_Analyze-sentiment-in-movie-reviews
 Implementing sentiment analysis and customer segmentation in movie reviews using Natural Language Processing techniques to categorize reviews into positive, negative.
 
-Dataset
+Dataset:
+
 The movie_reviews dataset from NLTK is used for training and testing the sentiment analysis model. It includes positive and negative reviews categorized into different classes.
 
 Code Overview
+
 Import Libraries: Import the necessary libraries for data processing, machine learning, and NLP.
 
 Download Dataset: Download the movie_reviews dataset from NLTK. This dataset is used for training and testing the sentiment analysis model.
